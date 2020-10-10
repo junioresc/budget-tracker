@@ -9,7 +9,7 @@ const FILES_TO_CACHE = [
   `./icons/icon-144x144`,
   `./icons/icon-152x152`,
   `./icons/icon-384x384`,
-  `./icons/icon-512x512`,
+  `./icons/icon-512x512`
 ];
 
 const APP_PREFIX = `BudgetTracker-`;
